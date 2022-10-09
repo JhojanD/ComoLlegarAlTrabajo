@@ -10,6 +10,7 @@ namespace ComoLlegarAlTrabajo
     {
         public static void aPie()
         {
+            Console.WriteLine("¿Cuantos Minutos tienes que caminar?");
 
         }
         public static void auto()
